@@ -1,0 +1,44 @@
+_repo: The-Watcher-and-other-weird-stories_40510
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Le Fanu, Brinsley
+    alias: Fanu, Brinsley Le
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '7418'
+    url: http://www.gutenberg.org/2009/agents/7418
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, J. Sheridan Le
+    - Fanu, Joseph Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2012-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, English'
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+tableOfContents: The watcher -- Passage in the secret history of an Irish countess
+  -- Strange event in the life of Schalken the Painter -- The fortunes of Sir Robert
+  Ardagh -- The dream -- A chapter in the history of a Tyrone family.
+title: The Watcher, and other weird stories
+url: http://www.gutenberg.org/ebooks/40510
